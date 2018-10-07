@@ -1,0 +1,1267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ANIMAL PLANET">
+    <display-name lang="pt">ANIMAL PLANET</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20181007002200 -0300" stop="20181007011600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007011600 -0300" stop="20181007020600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007020600 -0300" stop="20181007025600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007025600 -0300" stop="20181007034600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Predadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007034600 -0300" stop="20181007043700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Leões-da-montanha: Vida no Limite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007043700 -0300" stop="20181007052700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">América do Norte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007052700 -0300" stop="20181007061700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">As Quatro Estações da Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007061700 -0300" stop="20181007064200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Instinto de Sobrevivência</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007064200 -0300" stop="20181007071200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007071200 -0300" stop="20181007080300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007080300 -0300" stop="20181007085800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007085800 -0300" stop="20181007095300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">SOS! Meu Pet Come Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007095300 -0300" stop="20181007104800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">SOS! Meu Pet Come Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007104800 -0300" stop="20181007114300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Animais Mortais Da Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007114300 -0300" stop="20181007123700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Animais Mortais Da Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007123700 -0300" stop="20181007130600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007130600 -0300" stop="20181007140000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Vida Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007140000 -0300" stop="20181007145400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Vida Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007145400 -0300" stop="20181007154800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007154800 -0300" stop="20181007164200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007164200 -0300" stop="20181007173600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">América do Norte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007173600 -0300" stop="20181007180100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007180100 -0300" stop="20181007184900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007184900 -0300" stop="20181007193900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007193900 -0300" stop="20181007203000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007203000 -0300" stop="20181007212100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007212100 -0300" stop="20181007221500 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Mestre das Piscinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007221500 -0300" stop="20181007230900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Mestre das Piscinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007230900 -0300" stop="20181008000700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008000700 -0300" stop="20181008010100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008010100 -0300" stop="20181008015100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008015100 -0300" stop="20181008024100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008024100 -0300" stop="20181008033100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008033100 -0300" stop="20181008042200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Mestre das Piscinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008042200 -0300" stop="20181008051700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Mestre das Piscinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008051700 -0300" stop="20181008061200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008061200 -0300" stop="20181008064200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008064200 -0300" stop="20181008071200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008071200 -0300" stop="20181008080300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008080300 -0300" stop="20181008085800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008085800 -0300" stop="20181008095300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008095300 -0300" stop="20181008104800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008104800 -0300" stop="20181008114300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008114300 -0300" stop="20181008123700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008123700 -0300" stop="20181008130600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008130600 -0300" stop="20181008140000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">América Latina Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008140000 -0300" stop="20181008145400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Caçadores das Profundezas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008145400 -0300" stop="20181008154800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Caçadores das Profundezas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008154800 -0300" stop="20181008164200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Caçadores das Profundezas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008164200 -0300" stop="20181008173600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Encontros Ferozes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008173600 -0300" stop="20181008180100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008180100 -0300" stop="20181008182600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008182600 -0300" stop="20181008184900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008184900 -0300" stop="20181008193900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008193900 -0300" stop="20181008203000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008203000 -0300" stop="20181008212100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008212100 -0300" stop="20181008214800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">S.O.S. Castores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008214800 -0300" stop="20181008221500 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">S.O.S. Castores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008221500 -0300" stop="20181008230900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Perdido na Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008230900 -0300" stop="20181009000700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Perdido na Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009000700 -0300" stop="20181009010100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009010100 -0300" stop="20181009015100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009015100 -0300" stop="20181009024100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009024100 -0300" stop="20181009033100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009033100 -0300" stop="20181009035700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">S.O.S. Castores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009035700 -0300" stop="20181009042200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">S.O.S. Castores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009042200 -0300" stop="20181009051700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Perdido na Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009051700 -0300" stop="20181009061200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Perdido na Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009061200 -0300" stop="20181009064200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009064200 -0300" stop="20181009071200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009071200 -0300" stop="20181009080300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009080300 -0300" stop="20181009085800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009085800 -0300" stop="20181009095300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009095300 -0300" stop="20181009104800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009104800 -0300" stop="20181009114300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009114300 -0300" stop="20181009123700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009123700 -0300" stop="20181009130600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009130600 -0300" stop="20181009140000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">América Latina Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009140000 -0300" stop="20181009145400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009145400 -0300" stop="20181009154800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Criaturas Estranhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009154800 -0300" stop="20181009164200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Criaturas Estranhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009164200 -0300" stop="20181009173600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Lendas Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009173600 -0300" stop="20181009180100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009180100 -0300" stop="20181009182600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009182600 -0300" stop="20181009184900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009184900 -0300" stop="20181009193900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009193900 -0300" stop="20181009203000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009203000 -0300" stop="20181009212100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009212100 -0300" stop="20181009221500 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009221500 -0300" stop="20181009230900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009230900 -0300" stop="20181010000700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010000700 -0300" stop="20181010010100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010010100 -0300" stop="20181010015100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010015100 -0300" stop="20181010024100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010024100 -0300" stop="20181010033100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010033100 -0300" stop="20181010042200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010042200 -0300" stop="20181010051700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010051700 -0300" stop="20181010061200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010061200 -0300" stop="20181010064200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010064200 -0300" stop="20181010071200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010071200 -0300" stop="20181010080300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010080300 -0300" stop="20181010085800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010085800 -0300" stop="20181010095300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010095300 -0300" stop="20181010104800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010104800 -0300" stop="20181010114300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010114300 -0300" stop="20181010123700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010123700 -0300" stop="20181010130600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010130600 -0300" stop="20181010140000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">América Latina Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010140000 -0300" stop="20181010145400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010145400 -0300" stop="20181010154800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010154800 -0300" stop="20181010164200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010164200 -0300" stop="20181010173600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Reinos Ocultos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010173600 -0300" stop="20181010180100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010180100 -0300" stop="20181010182600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010182600 -0300" stop="20181010184900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010184900 -0300" stop="20181010193900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010193900 -0300" stop="20181010203000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">América do Norte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010203000 -0300" stop="20181010212100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010212100 -0300" stop="20181010221900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Cara a Cara com as Feras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010221900 -0300" stop="20181010231700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Predadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181010231700 -0300" stop="20181011001500 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Nova Zelândia Primitiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011001500 -0300" stop="20181011010900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Vida Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011010900 -0300" stop="20181011015900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011015900 -0300" stop="20181011024900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">América do Norte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011024900 -0300" stop="20181011033900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011033900 -0300" stop="20181011043000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Cara a Cara com as Feras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011043000 -0300" stop="20181011052100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Predadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011052100 -0300" stop="20181011061200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Nova Zelândia Primitiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011061200 -0300" stop="20181011064200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011064200 -0300" stop="20181011071200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011071200 -0300" stop="20181011080300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011080300 -0300" stop="20181011085800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011085800 -0300" stop="20181011095300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011095300 -0300" stop="20181011104800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011104800 -0300" stop="20181011114300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011114300 -0300" stop="20181011123700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011123700 -0300" stop="20181011130600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011130600 -0300" stop="20181011140000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">América Latina Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011140000 -0300" stop="20181011145400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Isca Humana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011145400 -0300" stop="20181011154800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Isca Humana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011154800 -0300" stop="20181011164200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Isca Humana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011164200 -0300" stop="20181011173600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011173600 -0300" stop="20181011180100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011180100 -0300" stop="20181011182600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011182600 -0300" stop="20181011184900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011184900 -0300" stop="20181011193900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011193900 -0300" stop="20181011203000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011203000 -0300" stop="20181011212100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011212100 -0300" stop="20181011221500 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011221500 -0300" stop="20181011230900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas de Brinquedo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181011230900 -0300" stop="20181012000700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas de Brinquedo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012000700 -0300" stop="20181012010100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012010100 -0300" stop="20181012015100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012015100 -0300" stop="20181012024100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012024100 -0300" stop="20181012033100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012033100 -0300" stop="20181012042200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012042200 -0300" stop="20181012051700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas de Brinquedo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012051700 -0300" stop="20181012061200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas de Brinquedo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012061200 -0300" stop="20181012064200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012064200 -0300" stop="20181012071200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012071200 -0300" stop="20181012080300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012080300 -0300" stop="20181012085800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012085800 -0300" stop="20181012095300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012095300 -0300" stop="20181012104800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Meu Amigo Cão, Meu Amigo Gato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012104800 -0300" stop="20181012114300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Meu Amigo Cão, Meu Amigo Gato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012114300 -0300" stop="20181012123700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Meu Amigo Cão, Meu Amigo Gato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012123700 -0300" stop="20181012130600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012130600 -0300" stop="20181012140000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">América Latina Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012140000 -0300" stop="20181012145400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Mutante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012145400 -0300" stop="20181012154800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Mutante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012154800 -0300" stop="20181012164200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Mutante</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012164200 -0300" stop="20181012173600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Ilhas Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012173600 -0300" stop="20181012180100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012180100 -0300" stop="20181012182600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012182600 -0300" stop="20181012184900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012184900 -0300" stop="20181012193900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Guerreiros do Pacífico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012193900 -0300" stop="20181012203000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012203000 -0300" stop="20181012212100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012212100 -0300" stop="20181012221500 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012221500 -0300" stop="20181012230900 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181012230900 -0300" stop="20181013000700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Insana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013000700 -0300" stop="20181013010100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Noite na Disney: O Reino Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013010100 -0300" stop="20181013015100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Guerreiros do Pacífico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013015100 -0300" stop="20181013024100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013024100 -0300" stop="20181013033100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013033100 -0300" stop="20181013042200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013042200 -0300" stop="20181013051700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013051700 -0300" stop="20181013061200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Insana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013061200 -0300" stop="20181013064200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Instinto de Sobrevivência</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013064200 -0300" stop="20181013071200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013071200 -0300" stop="20181013080300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013080300 -0300" stop="20181013085800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013085800 -0300" stop="20181013095300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Zoológico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013095300 -0300" stop="20181013104800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Zoológico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013104800 -0300" stop="20181013114300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Insana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013114300 -0300" stop="20181013123700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Insana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013123700 -0300" stop="20181013130600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Como Peixe Fora d´Água</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013130600 -0300" stop="20181013140000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Guerreiros do Pacífico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013140000 -0300" stop="20181013145400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Guerreiros do Pacífico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013145400 -0300" stop="20181013154800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013154800 -0300" stop="20181013164200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013164200 -0300" stop="20181013173600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013173600 -0300" stop="20181013182600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013182600 -0300" stop="20181013191400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013191400 -0300" stop="20181013200500 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013200500 -0300" stop="20181013203000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">A Encantadora de Serpentes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013203000 -0300" stop="20181013212800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Predadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013212800 -0300" stop="20181013222600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Animais das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013222600 -0300" stop="20181013232400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">América do Norte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181013232400 -0300" stop="20181014002200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Nova Zelândia Primitiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
